@@ -110,8 +110,9 @@
        x="9.0714283"
        y="173.0238" />
     <rect
-       style="opacity:1;fill:url(#linearGradient1657);fill-opacity:1;stroke:#010101;stroke-width:1.05833328;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill-opacity:1;stroke:#010101;stroke-width:1.05833328;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1649"
+       fill="#ff0000"
        width="70.303574"
        height="57.074402"
        x="46.49107"
